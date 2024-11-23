@@ -49,5 +49,5 @@ You will need a powered breadboard (a power supply with 3.3V or 5V will work per
 
 ### Breadboard Layout
 
-![Breadboard for current steering](resistors-bb.png)
+![Breadboard for current steering](current-steering-bb.png)
 
