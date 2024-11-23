@@ -47,10 +47,7 @@ You will need a powered breadboard (a power supply with 3.3V or 5V will work per
 - 1 × push button
 - 1 × resistor. I used 1KΩ, but you can use somewhat lower or higher values, which will still work, affecting only the LED brightness. You can use the technique described in the video to ensure the current across your LEDs doesn't exceed 25mA.
 
-### Schematic
-
-TBD
-
 ### Breadboard Layout
 
-TBD
+![Breadboard for current steering](resistors-bb.png)
+
