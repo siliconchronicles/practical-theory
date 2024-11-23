@@ -9,7 +9,9 @@ The video contains a few demos that you may want to build by yourself. The lists
 
 ## Current limiting resistors
 
-![](resistors.png)
+![Screencap for current limiting](resistors.png)
+
+Besides this experiment, there's a simple one connecting a coin cell battery (any cell battery you have will work; the CR2032 is a widely available model) and an LED. I'm not providing instructions for that one, you need to just put the components together with the correct polarity.
 
 ### What materials you'll need
 
@@ -32,13 +34,22 @@ TBD
 
 TBD
 
+### Some experiments to run
+
+1. Measure the voltage drops on the table and see if you get similar values to what I did.
+2. Plot an XY chart where you put voltage on the X axis and current on Y. What shape do you get?
+3. If you have a power supply with different voltages, try taking the measurements with a different supply voltage. Does the drop over the diodes change a lot?
+4. If you have another five diodes of a different kind, try them (you can use LEDs!). What is the average voltage drop for each kind of diode?
+
 ## Current steering
 
-Picture: TBD
+![Screencap for current steering](current-steering.png)
 
 ### What materials you'll need
 
-TBD
+- 3 × LEDs (3mm or 5mm ones will work) of the same colour
+- 1 × push button
+- 1 × resistor. I used 1KΩ, but you can use somewhat lower or higher values, which will still work, affecting only the LED brightness. You can use the technique described in the video to ensure the current across your LEDs doesn't exceed 25mA.
 
 ### Schematic
 
