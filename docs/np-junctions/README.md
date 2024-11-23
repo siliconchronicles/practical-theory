@@ -26,13 +26,9 @@ You will need a powered breadboard (a power supply with 3.3V or 5V will work per
   * 10KΩ
 * A multimeter
 
-### Schematic
-
-TBD
-
 ### Breadboard Layout
 
-TBD
+![Breadboard for current limiting](resistors-bb.png)
 
 ### Some experiments to run
 
