@@ -51,3 +51,6 @@ You will need a powered breadboard (a power supply with 3.3V or 5V will work per
 
 ![Breadboard for current steering](current-steering-bb.png)
 
+## Data Sheets
+
+- [1N4148 Small Signal Fast Switching Diode](https://www.vishay.com/docs/81857/1n4148.pdf)
